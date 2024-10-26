@@ -9,7 +9,7 @@ Frontend:
 
 1. React: A powerful JavaScript library for building user interfaces, enabling efficient component-based development.
 2. Vite: A fast build tool that enhances development experience with its lightning-fast hot module replacement.
-3. SASS: A preprocessor for CSS that allows for nested styles, variables, and mixins, making my stylesheets more organized and maintainable.
+3. SCSS: A syntax of SASS that acts as a CSS preprocessor, enabling the use of nested styles, variables, and mixins to create more organized and maintainable stylesheets.
 4. Framer Motion: A library for creating smooth and interactive animations, enhancing the overall user experience.
 5. React Icons: Provides a comprehensive set of icons that can be easily integrated into my project for visual appeal.
 
