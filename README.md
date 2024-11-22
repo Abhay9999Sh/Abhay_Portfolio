@@ -1,4 +1,4 @@
-# My Portfolio
+# 👨‍💻 My Portfolio
 
 Welcome to my **web developer portfolio**! This portfolio showcases my skills, projects, and experiences, designed to provide a comprehensive overview of my capabilities. It serves as a platform for potential clients and employers to explore my work and learn more about my web development expertise.
 
