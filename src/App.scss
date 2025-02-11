@@ -176,14 +176,33 @@
       }
     }
   }
+
+  .footer-social {
+    display: none;
+  }
   
   @media screen and (max-width: 500px) {
     .app__navigation,
-    .app__social {
+    .app__social, .copyright  {
       display: none;
     }
-  
-    .copyright {
-      padding: 2rem;
+    
+    .footer-social {
+      display: flex; 
+      justify-content: center;
+      gap: 10px;
     }
+    
+   
+    .footer-social .app__social {
+      display: flex;
+      flex-direction: row;
+    }
+
+    .footer-social .app__social div {
+      margin: 1rem;
+      
+    }
+
+  
   }
